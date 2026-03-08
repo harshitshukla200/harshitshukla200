@@ -173,3 +173,6 @@ https://github.com/harshitshukla200
 ---
 
 ⭐ *“Building scalable systems and intelligent AI-powered applications.”*
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/harshitshukla200/harshitshukla200/blob/output/github-contribution-grid-snake.svg)
