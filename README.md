@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=harshitshukla200&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/harshitshukla200?style=social)
+![GitHub stars](https://img.shields.io/github/stars/harshitshukla200?style=social)
+
 <h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">Backend Developer | AI & GenAI Enthusiast | Microservices Architect</h3>
 
